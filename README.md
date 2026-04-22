@@ -59,3 +59,21 @@ The system performs:
 
 ├── evaluation_results.csv
 ├── README.md
+
+
+---
+
+## How to Run
+
+Install dependencies:
+
+```bash
+pip install pandas langchain langchain-openai streamlit python-dotenv
+
+
+streamlit run 06_streamlit_app.py
+
+
+Author
+
+Karthik Reddy Police
