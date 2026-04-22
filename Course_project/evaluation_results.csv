@@ -1,0 +1,6 @@
+Question,Expected Answer,Model Answer,Evaluation
+Which product performed best?,Widget A performed best with total sales of 375235.,"Widget A performed the best, with sales of 375,235.",CORRECT
+Which region had the highest sales?,West region had the highest sales with 361383.,"West region had the highest sales: 361,383.",CORRECT
+What is the average customer satisfaction?,Average customer satisfaction is approximately 3.03.,"The provided data does not include customer satisfaction information. It only contains Average Sales by Age. If you’d like, I can compute the overall average of the listed sales figures, or you can share data that includes customer satisfaction.",INCORRECT
+What is the median sales value?,Median sales value is 552.5.,552.5,CORRECT
+Which month had the highest sales?,Month 8 had the highest sales with 124264.,"Month 8 had the highest sales, with 124,264.",CORRECT
